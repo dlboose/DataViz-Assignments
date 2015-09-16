@@ -1,0 +1,16 @@
+---
+title: "My Life in R"
+author: "David Boose"
+date: "September 8, 2015"
+output: html_document
+---
+# The Early Years
+
+## Birth
+
+While I was obviously present for this event, I have no actual memory of it.
+
+## Earliest memories
+
+One of the earliest memories I have is being in the hospital for pneumonia.
+
